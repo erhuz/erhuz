@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Benjamin Fransson, a software developer based in Gothenburg, Sweden. When I find time I like to do fun coding challanges such as [adventofcode.com/](https://adventofcode.com/), play games or start another never-going-to-be-finished project.
+
+Here on my github profile you can find some of my unfinished projects, and if you find something you like or would like to work on you can always contact me via mail.
+
+Best regards,
+Benjamin
+
 <!--
 **erhuz/erhuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
