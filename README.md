@@ -6,6 +6,6 @@ I have a burning passion for automation and problem solving, programming is my w
 
 🔭 I currently have a certain interest for: Kubernetes & Jenkins
 
-🌱 I’m currently learning how to use Typescript with Nodejs
+🌱 I’m currently learning KeystoneJS with NextJS 
 
 Feel free to contact me at any time for any reason, you can find my email adress on the left side here on my github profile-page 😊
