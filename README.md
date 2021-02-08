@@ -4,7 +4,7 @@ I'm Benjamin Fransson, a software developer based in Gothenburg, Sweden. When I 
 
 I have a burning passion for automation and problem solving, programming is my way of bringing that to life. I also have an interest for new technologies and new ways to implement old technologies. I like the thought of automating normal everyday activities such as grocery shopping.
 
-🔭 I currently have a certain interest for: Kubernetes & Jenkins
+🔭 I currently have a certain interest for: Hardware-controlled by NodeJS
 
 🌱 I’m currently learning KeystoneJS with NextJS 
 
