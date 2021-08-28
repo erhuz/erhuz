@@ -6,6 +6,6 @@ I have a burning passion for automation and problem solving, programming is my w
 
 🔭 I currently have a certain interest for: Typed languages & math
 
-🌱 I’m currently learning Typescript, GraphQL & how to implement WebRTC
+🌱 I’m currently learning Typescript & GraphQL
 
 Feel free to contact me at any time for any reason, you can find my email adress on the left side here on my github profile-page 😊
